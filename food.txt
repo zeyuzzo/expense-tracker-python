@@ -1,0 +1,3 @@
+{'pizza': 250}
+{'burger ': 300}
+{'samosa': 30}
